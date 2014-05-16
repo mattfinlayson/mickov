@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'bundler'
 require 'marky_markov'
+require 'json'
 
 Bundler.require
 
